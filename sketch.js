@@ -9,7 +9,7 @@ var block1,block2,block3,block4,block5,block6,block7,block8,block9;
 var block10,block11,block12,block13,block14,block15,block16;
 
 function preload(){
-  polygon_img=loadImage("Polygon.jpg");
+  polygon_img=loadImage("polygon.jpg");
 }
 function setup() {
   var canvas=createCanvas(800,400);
